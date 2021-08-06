@@ -1,0 +1,16 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: azure;
+}
+
+#projects{ 
+    background-color: beige;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.lead{
+    padding-bottom: 3rem;
+}
